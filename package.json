@@ -4,6 +4,7 @@
 	"description": "project for free code camp project on back-end",
 	"keywords": ["funny", "charming", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
